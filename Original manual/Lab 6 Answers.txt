@@ -1,0 +1,28 @@
+Lab 6 Answers
+
+[w] at 1.23:
+F1 211
+F2 1111
+F3 2375
+
+[j] at 3.25:
+F1 158
+F2 2488
+F3 3096
+
+
+[r] at 6.25:
+F1 384
+F2 1573
+F3 1807
+
+onset transition: ~110 ms
+coda transition: 200+ ms
+
+[l] at 8.3:
+F1 705
+F2 1065
+F3 3021
+
+onset transition: ~70 ms
+coda transition: 170+ ms

@@ -1,0 +1,42 @@
+---
+title: "Lab 1: Exploring Praat"
+author: "Thomas Kettig, based on work by Sonya Bird et al."
+date: "23 July 2023"
+output: html_document
+---
+
+### Goal of Lab 1:
+The goal of this first lab is to explore some of the basic features of PRAAT (www.praat.org), which we will be using for speech analysis throughout the term. You will learn to make recordings, bring up visual displays of these recordings (waveforms and spectrograms), segment and label various components of these recordings, and export the visual displays into a word document. The skills you learn today will be useful for your lab work throughout the remainder of this course and beyond…
+
+1. Open Praat: double click on the following icon:
+<center>
+![Figure 1.1: Praat icon](./Images/Figure1_1.png)
+</center>
+<br>
+
+2. Get to know the Praat layout
+<center>
+![Figure 1.2: Praat layout](./Images/Figure1_2.png)
+</center>
+
+>TIP: The tools you see in the Analysis and Synthesis Tool Panel (see Figure 1.2 above) are specific to the highlighted object(s) in the list. For example, the tools that are listed for a sound object are different from that for a Textgrid object. When you first open Praat, there will be nothing in your object list. As a result, nothing will show up in your Analysis and Synthesis Tool Panel.
+
+<br>
+
+3. Record the sentence: “My name is [first-name] [last-name]” 
+
+In the main menu of the Objects window (see Figure 1.2):
+
+* Click New > Record mono Sound (sampling rate: 44 100 Hz) (Figure 1.3)
+* Make sure the volume bar is fluctuating as you record – if it isn’t, you’re not recording or you’re not speaking loudly enough. You may need to find the correct microphone under “Input source”.
+* Watch out for clipping (Figure 1.4): if your recording level is too high and you go into the red on the volume bar, you’ll end up with what is called a “clipped” signal – this is very bad for speech analysis!
+* Give the recording a name (in the box above “Save to list”)
+* Click Save to list
+
+![Figure 1.3: Recording a mono sound](./Images/Figure1_3.png)
+
+4.
+<br>
+
+<font size="1.5"> Disclaimer: The original lab materials on which this lab is based was put together in 2015 (updated 2019) by Sonya Bird, Qian Wang, Sky Onosson, and Allison Benner for the LING 380 Acoustic Phonetics course at the University of Victoria. Their materials are released under a Creative Commons license (CC BY-NC-SA 4.0) which allows for non-commercial use as well as copying and distribution and the creation of derivative works for non-commercial purposes. Thomas Kettig has modified these materials as needed for the York University LING 4220 Acoustic Phonetics course.</font>
+
