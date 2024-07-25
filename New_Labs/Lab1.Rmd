@@ -29,10 +29,10 @@ output: html_document
 ![Figure 1.2: Praat layout](./Images/Figure1_2.png)
 </center>
 
->##### TIP: The tools you see in the Analysis and Synthesis Tool Panel (see Figure 1.2 above) are specific to the highlighted object(s) in the list. For example, the tools that are listed for a sound object such as "Sound Lab8_CanadianBC" are different from that for a Textgrid object. When you first open Praat, there will be nothing in your object list. Therefore, nothing will show up in your Analysis and Synthesis Tool Panel.
+>##### TIP: The tools you see in the Analysis and Synthesis Tool Panel (see Figure 1.2 above) are specific to the highlighted object(s) in the list. For example, the tools that are listed for a sound object such as "name" or "Fargo_vowels" are different from that for a Textgrid object. When you first open Praat, there will be nothing in your object list. Therefore, nothing will show up in your Analysis and Synthesis Tool Panel.
 
 <br>
-3. Record the sentence: **“My name is [first-name] [last-name]”**
+3. Record the sentence: “My name is [first-name] [last-name]”
 
 In the main menu of the Objects window (see Figure 1.2):
 
