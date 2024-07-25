@@ -29,7 +29,8 @@ output: html_document
 ![Figure 1.2: Praat layout](./Images/Figure1_2.png)
 </center>
 
->##### TIP: The tools you see in the Analysis and Synthesis Tool Panel (see Figure 1.2 above) are specific to the highlighted object(s) in the list. For example, the tools that are listed for a sound object such as "name" or "Fargo_vowels" are different from that for a Textgrid object. When you first open Praat, there will be nothing in your object list. Therefore, nothing will show up in your Analysis and Synthesis Tool Panel.
+>##### __TIP:__
+##### The tools you see in the Analysis and Synthesis Tool Panel (see Figure 1.2 above) are specific to the highlighted object(s) in the list. For example, the tools that are listed for a sound object such as "name" or "Fargo_vowels" are different from that for a Textgrid object. When you first open Praat, there will be nothing in your object list. Therefore, nothing will show up in your Analysis and Synthesis Tool Panel.
 
 <br>
 3. Record the sentence: “My name is [first-name] [last-name]”
@@ -50,8 +51,6 @@ In the main menu of the Objects window (see Figure 1.2):
 <center>
 ![Figure 1.4: Good recording vs. clipped signal](./Images/Figure1_4.png)
 </center>
-
-<br>
 Compare the waveform in these two cases. The one in the clipped recording has a square-like form, because the sound is “bursting out” of the maximum and minimum levels that can be plotted. In a good recording, the waveform will be touching the top and bottom of the plot only once or twice. The scale/zoom of the waveform will adjust such that it’s always showing exactly the 
 
 <br>
@@ -118,20 +117,22 @@ Two things are being displayed now in the Edit window: **the waveform** on the u
 * Select the desktop as the save-to location
 
 <br>
-<center>
-![Figure 1.7: Creating a textgrid](./Images/Figure1_7.png)
-</center>
-
-<br>
 8. Create a **textgrid**: textgrids let you label or annotate the spectrogram (and sound file) – they are particularly helpful for acoustic analysis, to keep track of where you’ve taken measurements, etc.
 
 * In the Praat Objects window, highlight the newly renamed file (see step 6)
 * **Annotate > To TextGrid…** (see Figure 1.7)
 * Create two tiers (this will be enough for our purposes): All Tier names: **word segment**
   + This creates 2 tiers, one with the name of _‘word’_ and the other with the name of _‘segment’_. Ignore the second line in the TextGrid naming window, “Which of these are point tiers”. This is irrelevant at the present stage.
-  
+
 <br>
-9. Open the sound file and textgrid together (see Figure 1.8): In order to segment and/or label a sound file, you have to open the sound file TOGETHER with its textgrid file.
+<center>
+![Figure 1.7: Creating a textgrid](./Images/Figure1_7.png)
+</center>
+
+<br>
+9. Open the sound file and textgrid together (see Figure 1.8):  
+
+In order to segment and/or label a sound file, you have to open the sound file **_together_** with its textgrid file.
 
 * Hold down Ctrl (or Command on a Mac) and click on each file to highlight them both
 * **View & Edit**
@@ -145,17 +146,18 @@ Two things are being displayed now in the Edit window: **the waveform** on the u
 In your display you should now see the waveform (top), the spectrogram (middle) and the textgrid (bottom) corresponding to your sound file (see Figure 1.9). We will talk about waveforms and spectrograms in detail later on.
 
 <br>
-10. Segment the file (see Figure 1.9): In the sound file, identify your first name and last name. Use the following steps to segment each:
+10. Segment the file (see Figure 1.9):  
+
+In the sound file, identify your first name and last name. Use the following steps to segment each:
 
 * To find your first and last name on the spectrogram, listen to the sound file and look at the spectrogram – these should give you hints as to where your first name ends and your second name and starts. It may help to zoom into small chunks of the sound file and listen to those.
 * Place the cursor at the beginning of the name on the spectrogram/waveform (not on the Textgrid tier). A boundary line will show up.
 * Click in the little circle at the top of the word tier in the Textgrid to create a boundary (Figure 1.9).
 
->##### __TIP:__
-##### To remove a boundary you have made, do the following:
->
->##### 1. Highlight the boundary by going to __Boundary > Remove__ or click __Alt + Backspace__
-##### 2. Move a boundary by clicking on the boundary to highlight it (should go red as a result) and drag it to the desired location
+To remove a boundary you have made, do the following:
+
+* Highlight the boundary by going to __Boundary > Remove__ or click __Alt + Backspace__
+* Move a boundary by clicking on the boundary to highlight it (should go red as a result) and drag it to the desired location
 
 
 <br>
