@@ -6,7 +6,7 @@ output: html_document
 ---
 *** 
 
-### Goal of Lab 2:
+### __Goal of Lab 2:__
 One of the most common acoustic features that is measured and manipulated in speech research is voicing in stop consonants (in particular voice onset time), so this is a good place to start. In this lab, we are going to explore the acoustic correlates of different stop consonants in terms of two parameters: VOICING and PLACE OF ARTICULATION.
 
 ***
@@ -77,6 +77,8 @@ In order to measure the duration of the vowel, you will need to identify the sec
 
 ***
 <center> <h4> __LAB 2 REPORT__ </h4> </center> 
+
+<font size= "4.0">
 
 <font size= "3.5"> _Table 2.1 VOT_ </font>
 
