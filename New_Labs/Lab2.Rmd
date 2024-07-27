@@ -1,0 +1,128 @@
+---
+title: "Lab 2: Voicing in stop consonants"
+author: "Thomas Kettig, based on work by Sonya Bird et al."
+date: "26 July 2023"
+output: html_document
+---
+*** 
+
+### Goal of Lab 2:
+One of the most common acoustic features that is measured and manipulated in speech research is voicing in stop consonants (in particular voice onset time), so this is a good place to start. In this lab, we are going to explore the acoustic correlates of different stop consonants in terms of two parameters: VOICING and PLACE OF ARTICULATION.
+
+***
+<font size= "3.5">
+
+##### __RECORDING__
+
+Generate the following sound files, containing the sound sequences listed.  
+
+|    _File name_       |   _Sounds to record_              |
+|:--------------------:|:---------------------------------:|
+|Lab2_Eng_stop_a.wav   |  pʰa, ba, tʰa, da, kʰa, ga        |
+|Lab2_Eng_a_stop_a.wav |  apʰa, aba, atʰa, ada, akʰa, aga  |
+|Lab2_Eng_a_stop.wave  |  lap, lab, bat, bad, rack, rag    |
+
+<br>
+If you are a fluent French speaker, also generate the following sound files. Otherwise, you can go to eClass and download the zip file __Lab2_SoundFiles__, which contains these files.
+
+|    _File name_      |   _Sounds to record_                |
+|:-------------------:|:-----------------------------------:|
+|Lab2_Fr_stop_a.wav   |   pʰa, ba, tʰa, da, kʰa, ga         |
+|Lab2_Fr_a_stop_a.wav |   apʰa, aba, atʰa, ada, akʰa, aga   |
+|Lab2_Fr_a_stop.wave  |   lap, lab, bat, bad, rack, rag     |
+
+<br>
+Three important acoustic correlates of voicing in English stops are:
+
+* The voice bar
+* VOT
+* The duration of the preceding vowel
+
+For each of the stops in the file, take the three measurements according to the instructions below and fill out Table 2.1, Table 2.2 and Table 2.3 accordingly. Answer the related questions by comparing your measurements across stops.
+
+***
+
+##### __INSTRUCTIONS__
+
+<br>
+
+1. Open the following sound files in Praat: **Eng_stop_a.wav** and **Fr_stop_a.wav**. Measure the VOT of each stop (see Figure 2.1) and fill in Table 2.1. Compare voiced/voiceless counterparts (p/b, t/d, k/g):
+
+  +	Zoom in so that you can clearly see the transition between the stop and vowel
+  + Measure the time between the end of the stop closure ( = the beginning of the release burst) and the onset of voicing ( = the onset of _regular_ pitch pulses in the waveform). This is the __voice onset time__, or VOT.
+    + If the onset of voicing <u> follows </u> the release of the stop clouse, then VOT is calculated as _positive_; stops with positive VOT are termed _voiceless_.
+      + VOTs between 0-20ms correspond to __voiceless unaspirated stops__
+      + VOTS above 20ms correspond to __voiceless aspirated stops__
+    + If the onset of voicing <u> precedes </u> the release of the stop closure, then VOT is calculated as _negative_; stops with negative VOT are termed __prevoiced__ or more generally, __voiced__. (See bottom of Figure 1.2)
+
+<br>
+
+> __TIP:__
+Praat reports time values in seconds, but in phonetic analysis we report in milliseconds, so the values need to be converted. Once you have converted to milliseconds, you do not need to report any decimal places.
+
+<br>
+
+2. Open the following sound files in Praat: **Eng_a_stop_a.wav** and **Fr_a_stop_a.wav**. Note down the presence vs. absence of the voice bar (see Figure 2.2) during the stop closure of each consonant in Table 2.2 in the report.
+
+<br>
+
+3. Open the following sound files in Praat: **Eng_a_stop.wav** and **Fr_a_stop.wav**. Measure the duration of the vowel preceding each stop, and fill in Table 2.3 in the report. Compare vowel durations in the voiced vs. voiceless series.
+
+<br>
+
+> __TIP:__
+In order to measure the duration of the vowel, you will need to identify the section of the spectrogram which makes up the vowel. One common means of doing so is to measure where there are clearly visible vowel formants. Whatever method you do use, the most important thing is to be consistent and use the same method for __all__ your measurements.
+
+</font>
+
+***
+<center> <h4> __LAB 2 REPORT__ </h4> </center> 
+
+<font size= "4.0">
+
+<font size= "3.5"> _Table 2.1 VOT_ </font>
+
+|                              |  pʰ  |   b  |   tʰ |   d  |   kʰ |   g  |
+|:-----------------------------|:----:|:----:|:----:|:----:|:----:|:----:|
+|English VOT (ms) (Eng_stop_a) |      |      |      |      |      |      |
+|French VOT (ms) (Fr_stop_a)   |      |      |      |      |      |      |
+
+<br>
+
+__Q1:__ How does VOT differ in voiced vs. voiceless stops and what explanation can you come up with for this?
+
+<br>
+
+<font size= "3.5"> _Table 2.2 Voice bar_ </font>
+
+|                                     |                       |  pʰ  |   b  |   tʰ |   d  |   kʰ |   g  |
+|:------------------------------------|:----------------------|:----:|:----:|:----:|:----:|:----:|:----:|
+|English voice bar (ms) (Eng_a_stop_a)|Is it there?           |      |      |      |      |      |      |
+|                                     |How long does it last? |      |      |      |      |      |      |
+|French voice bar (ms) (Fr_a_stop_a)  |Is it there?           |      |      |      |      |      |      |
+|                                     |How long does it last? |      |      |      |      |      |      |
+
+<br>
+
+__Q2:__ If the voice bar is present at all, does it last through the duration of the closure? Why do you think it might go away?
+
+__Q3:__ What differences (if any) do you observe in the voice bar between English and French?
+
+<br>
+
+<font size= "3.5"> _Table 2.3 Preceding V duration_ </font>
+
+|                                               |  pʰ  |   b  |   tʰ |   d  |   kʰ |   g  |
+|:----------------------------------------------|:----:|:----:|:----:|:----:|:----:|:----:|
+|English preceding V duration (ms) (Eng_a_stop) |      |      |      |      |      |      |
+|French preceding V duration (ms) (Eng_a_stop)  |      |      |      |      |      |      |
+
+<br>
+
+__Q4:__ How does the duration of the preceding vowel differ depending on the voicing of the following consonant?
+
+__Q5:__ What differences (if any) do you observe in the preceding vowel duration between English and French?
+
+__Q6:__ Summarizing what you’ve seen in this lab, what are the possible acoustic correlates of the phonemic voicing (voiced vs. voiceless) contrast across languages?
+
+__Q7:__ Provide a reference and very brief summary of one academic paper that uses the methods covered in this lab.
