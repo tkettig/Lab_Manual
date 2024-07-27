@@ -7,7 +7,7 @@ output: html_document
 *** 
 
 ### __Goal of Lab 2:__
-One of the most common acoustic features that is measured and manipulated in speech research is voicing in stop consonants (in particular voice onset time), so this is a good place to start. In this lab, we are going to explore the acoustic correlates of different stop consonants in terms of two parameters: VOICING and PLACE OF ARTICULATION.
+<h4> One of the most common acoustic features that is measured and manipulated in speech research is voicing in stop consonants (in particular voice onset time), so this is a good place to start. In this lab, we are going to explore the acoustic correlates of different stop consonants in terms of two parameters: _voicing_ and _place of articulation_. </h4>
 
 ***
 <font size= "3.5">
@@ -126,3 +126,9 @@ __Q5:__ What differences (if any) do you observe in the preceding vowel duration
 __Q6:__ Summarizing what you’ve seen in this lab, what are the possible acoustic correlates of the phonemic voicing (voiced vs. voiceless) contrast across languages?
 
 __Q7:__ Provide a reference and very brief summary of one academic paper that uses the methods covered in this lab.
+
+***
+
+<font size="1.5"> Disclaimer: The original lab materials on which this lab is based was put together in 2015 (updated 2019) by Sonya Bird, Qian Wang, Sky Onosson, and Allison Benner for the LING 380 Acoustic Phonetics course at the University of Victoria. Their materials are released under a Creative Commons license (CC BY-NC-SA 4.0) which allows for non-commercial use as well as copying and distribution and the creation of derivative works for non-commercial purposes. Thomas Kettig has modified these materials as needed for the York University LING 4220 Acoustic Phonetics course.</font>
+
+<br>
