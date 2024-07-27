@@ -44,8 +44,6 @@ For each of the stops in the file, take the three measurements according to the 
 
 ##### __INSTRUCTIONS__
 
-<br>
-
 1. Open the following sound files in Praat: **Eng_stop_a.wav** and **Fr_stop_a.wav**. Measure the VOT of each stop (see Figure 2.1) and fill in Table 2.1. Compare voiced/voiceless counterparts (p/b, t/d, k/g):
 
   +	Zoom in so that you can clearly see the transition between the stop and vowel
@@ -54,6 +52,10 @@ For each of the stops in the file, take the three measurements according to the 
       + VOTs between 0-20ms correspond to __voiceless unaspirated stops__
       + VOTS above 20ms correspond to __voiceless aspirated stops__
     + If the onset of voicing <u> precedes </u> the release of the stop closure, then VOT is calculated as _negative_; stops with negative VOT are termed __prevoiced__ or more generally, __voiced__. (See bottom of Figure 1.2)
+    
+<center>
+![Figure 2.1: Positive and negative VOT measurements](./Images/Figure2_VOT_measurements.png)
+</center>
 
 <br>
 
@@ -73,16 +75,23 @@ Praat reports time values in seconds, but in phonetic analysis we report in mill
 > __TIP:__
 In order to measure the duration of the vowel, you will need to identify the section of the spectrogram which makes up the vowel. One common means of doing so is to measure where there are clearly visible vowel formants. Whatever method you do use, the most important thing is to be consistent and use the same method for **all** your measurements.
 
+<center>
+![Figure 2.2: Voice bar and VOT measurements](./Images/Figure2_voicebar.png)
+</center>
 </font>
+<br>
 
 ***
+
+***
+<br>
 <center> <h4> __LAB 2 REPORT__ </h4> </center> 
 
 <font size= "4.0">
 
 <font size= "3.5"> _Table 2.1 VOT_ </font>
 
-|                              |  pʰ  |   b  |   tʰ |   d  |   kʰ |   g  |
+|                              |  p   |   b  |   t  |   d  |   k  |   g  |
 |:-----------------------------|:----:|:----:|:----:|:----:|:----:|:----:|
 |English VOT (ms) (Eng_stop_a) |      |      |      |      |      |      |
 |French VOT (ms) (Fr_stop_a)   |      |      |      |      |      |      |
@@ -95,7 +104,7 @@ __Q1:__ How does VOT differ in voiced vs. voiceless stops and what explanation c
 
 <font size= "3.5"> _Table 2.2 Voice bar_ </font>
 
-|                                     |                       |  pʰ  |   b  |   tʰ |   d  |   kʰ |   g  |
+|                                     |                       |  p   |   b  |   t  |   d  |   k  |   g  |
 |:------------------------------------|:----------------------|:----:|:----:|:----:|:----:|:----:|:----:|
 |English voice bar (ms) (Eng_a_stop_a)|Is it there?           |      |      |      |      |      |      |
 |                                     |How long does it last? |      |      |      |      |      |      |
@@ -112,7 +121,7 @@ __Q3:__ What differences (if any) do you observe in the voice bar between Englis
 
 <font size= "3.5"> _Table 2.3 Preceding V duration_ </font>
 
-|                                               |  pʰ  |   b  |   tʰ |   d  |   kʰ |   g  |
+|                                               |  p   |   b  |   t  |   d  |   k  |   g  |
 |:----------------------------------------------|:----:|:----:|:----:|:----:|:----:|:----:|
 |English preceding V duration (ms) (Eng_a_stop) |      |      |      |      |      |      |
 |French preceding V duration (ms) (Eng_a_stop)  |      |      |      |      |      |      |
@@ -129,6 +138,6 @@ __Q7:__ Provide a reference and very brief summary of one academic paper that us
 
 ***
 
-<font size="1.5"> Disclaimer: The original lab materials on which this lab is based was put together in 2015 (updated 2019) by Sonya Bird, Qian Wang, Sky Onosson, and Allison Benner for the LING 380 Acoustic Phonetics course at the University of Victoria. Their materials are released under a Creative Commons license (CC BY-NC-SA 4.0) which allows for non-commercial use as well as copying and distribution and the creation of derivative works for non-commercial purposes. Thomas Kettig has modified these materials as needed for the York University LING 4220 Acoustic Phonetics course.</font>
+<font size="1.5"> Disclaimer: The original lab materials on which this lab is based was put together in 2015 (updated 2019) by Sonya Bird, Qian Wang, Sky Onosson, and Allison Benner for the LING 380 Acoustic Phonetics course at the University of Victoria. Their materials are released under a Creative Commons license (CC BY-NC-SA 4.0) which allows for non-commercial use as well as copying and distribution and the creation of derivative works for non-commercial purposes. Thomas Kettig (with assistance from Taylor Potter) has modified these materials as needed for the York University LING 4220 Acoustic Phonetics course.</font>
 
 <br>
