@@ -5,10 +5,10 @@ date: "23 July 2023"
 output: html_document
 ---
 
-### Goal of Lab 1:
-The goal of this first lab is to explore some of the basic features of PRAAT (www.praat.org), which we will be using for speech analysis throughout the term. You will learn to make recordings, bring up visual displays of these recordings (waveforms and spectrograms), segment and label various components of these recordings, and export the visual displays into a word document. The skills you learn today will be useful for your lab work throughout the remainder of this course and beyond…
+### __Goal of Lab 1:__
+<h4>The goal of this first lab is to explore some of the basic features of PRAAT (www.praat.org), which we will be using for speech analysis throughout the term. You will learn to make recordings, bring up visual displays of these recordings (waveforms and spectrograms), segment and label various components of these recordings, and export the visual displays into a word document. 
 
-##### The skills you learn today will be useful for your lab work throughout the remainder of this course and beyond…
+The skills you learn today will be useful for your lab work throughout the remainder of this course and beyond… </h4>
 
 ***
 <font size= "3.5">
@@ -30,15 +30,15 @@ The tools you see in the Analysis and Synthesis Tool Panel (see Figure 1.2 above
 
 <br>
 
-3. Record the sentence: “My name is [first-name] [last-name]” 
+3. Record the sentence: __“My name is [first-name] [last-name]”__
 
 In the main menu of the Objects window (see Figure 1.2):
 
-* Click New > Record mono Sound (sampling rate: 44 100 Hz) (Figure 1.3)
+* Click __New > Record mono Sound (sampling rate: 44 100 Hz)__ (Figure 1.3)
 * Make sure the volume bar is fluctuating as you record – if it isn’t, you’re not recording or you’re not speaking loudly enough. You may need to find the correct microphone under “Input source”.
 * Watch out for clipping (Figure 1.4): if your recording level is too high and you go into the red on the volume bar, you’ll end up with what is called a “clipped” signal – this is very bad for speech analysis!
 * Give the recording a name (in the box above “Save to list”)
-* Click Save to list
+* Click __Save to list__
 
 <center>
 ![Figure 1.3: Recording a mono sound](./Images/Figure1_recording_ui.png)
@@ -48,6 +48,8 @@ In the main menu of the Objects window (see Figure 1.2):
 <center>
 ![Figure 1.4: Good recording vs. clipped signal](./Images/Figure1_clipped_v_good.png)
 </center>
+<br>
+
 Compare the waveform in these two cases. The one in the clipped recording has a square-like form, because the sound is “bursting out” of the maximum and minimum levels that can be plotted. In a good recording, the waveform will be touching the top and bottom of the plot only once or twice. The scale/zoom of the waveform will adjust such that it’s always showing exactly the 
 
 <br>
@@ -56,12 +58,18 @@ Compare the waveform in these two cases. The one in the clipped recording has a 
 * In the Objects window (see Figure 1.2), highlight the sound file you’ve just recorded.
 * Click __View & Edit__ on the “Analysis and synthesis tools” panel (see Figure 1.2).
 
+<br>
+
 When you first open a sound file in the View & Edit window, it may seem a bit of a mess. Depending on the default settings in the version of Praat you are using, you may see vertical lines in the waveform, and lines of red dots and a blue line in the spectrogram (see Figure 1.5). If you don’t need these displays for your current purposes (you don’t for this lab!), you can tidy up the visual display by doing the following: 
+
+<br>
 
 * In the menu of the View & Edit window:
   + **Pulses > Show pulses** (click on this to unselect it)
   + **Formant > Show formants** (click on this to unselect it)
   + **Pitch > Show pitch** (click on this to unselect it)
+  
+<br>
 
 Two things are being displayed now in the Edit window: **the waveform** on the upper level and **the spectrogram** on the lower level.
 
@@ -215,10 +223,12 @@ If you complete all of these steps, you should end up with a word file with an i
 
 Your lab report should include one Figure, corresponding to the segmented and labeled spectrogram and waveform of your name. 
 
-In addition, please answer the following questions:
 </font>
 
 ***
+
+***
+<br>
 <center> <font size= "4.5"> __LAB 1 REPORT__ </font> </center>
 
 <font size= "4.5"> <br>
@@ -234,4 +244,6 @@ In addition, please answer the following questions:
 ***
 
 <font size="2.0"> Disclaimer: The original lab materials on which this lab is based was put together in 2015 (updated 2019) by Sonya Bird, Qian Wang, Sky Onosson, and Allison Benner for the LING 380 Acoustic Phonetics course at the University of Victoria. Their materials are released under a Creative Commons license (CC BY-NC-SA 4.0) which allows for non-commercial use as well as copying and distribution and the creation of derivative works for non-commercial purposes. Thomas Kettig (with assistance from Taylor Potter) has modified these materials as needed for the York University LING 4220 Acoustic Phonetics course.</font>
+
+<br>
 
