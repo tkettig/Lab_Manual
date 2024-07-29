@@ -18,8 +18,8 @@ Generate the following sound files, containing the sound sequences listed.
 
 |    _File name_       |   _Sounds to record_              |
 |:--------------------:|:---------------------------------:|
-|Lab2_Eng_stop_a.wav   |  pʰa, ba, tʰa, da, kʰa, ga        |
-|Lab2_Eng_a_stop_a.wav |  apʰa, aba, atʰa, ada, akʰa, aga  |
+|Lab2_Eng_stop_a.wav   |  pa, ba, ta, da, ka, ga           |
+|Lab2_Eng_a_stop_a.wav |  apa, aba, ata, ada, aka, aga     |
 |Lab2_Eng_a_stop.wave  |  lap, lab, bat, bad, rack, rag    |
 
 <br>
@@ -27,9 +27,9 @@ If you are a fluent French speaker, also generate the following sound files. Oth
 
 |    _File name_      |   _Sounds to record_                |
 |:-------------------:|:-----------------------------------:|
-|Lab2_Fr_stop_a.wav   |   pʰa, ba, tʰa, da, kʰa, ga         |
-|Lab2_Fr_a_stop_a.wav |   apʰa, aba, atʰa, ada, akʰa, aga   |
-|Lab2_Fr_a_stop.wave  |   lap, lab, bat, bad, rack, rag     |
+|Lab2_Fr_stop_a.wav   |   pa, ba, ta, da, ka, ga            |
+|Lab2_Fr_a_stop_a.wav |   apa, aba, ata, ada, aka, aga      |
+|Lab2_Fr_a_stop.wav   |   nappe, nab, latte, lad, sac, vague|
 
 <br>
 Three important acoustic correlates of voicing in English stops are:
