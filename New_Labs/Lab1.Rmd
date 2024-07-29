@@ -1,7 +1,7 @@
 ---
 title: "Lab 1: Exploring Praat"
 author: "Thomas Kettig, based on work by Sonya Bird et al."
-date: "23 July 2023"
+date: "23 July 2024"
 output: html_document
 ---
 
