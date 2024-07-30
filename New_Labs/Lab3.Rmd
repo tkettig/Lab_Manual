@@ -30,7 +30,7 @@ Take a quick look at your vowels in the View & Edit window, and make sure you ca
 ##### __SECTION I. INTRINSIC PITCH__
 <br>
 
-2. Measure the pitch (F0) in each of the vowels (see Figure 3.1). Note down your measurements in Table 3.1. Note that measurements should be rounded to the nearest whole number “unité” – no decimal points!
+2. Measure the pitch (F0) in each of the vowels (see Figure 3.1). Note down your measurements in Table 3.1. Note that measurements should be rounded to the nearest whole number unit – no decimal points!
 
 * Display the pitch track: __Pitch > Show pitch__
 * Click on the blue pitch track in the middle, stable portion of the vowel
@@ -39,7 +39,7 @@ Take a quick look at your vowels in the View & Edit window, and make sure you ca
 <br>
 
 > __TIP:__
-The Fundamental frequency value is always displayed on the _right_ side of the window in dark red; formant frequencies are displayed on the _left_ side in bright red – be careful not to get these two confused! If the blue pitch contour (blue line) doesn’t appear clearly, it is because Praat’s default pitch range is not appropriate for the file you’re listening to:
+The fundamental frequency value is always displayed on the _right_ side of the window in dark red; formant frequencies are displayed on the _left_ side in bright red – be careful not to get these two confused! If the blue pitch contour (blue line) doesn’t appear clearly, it is because Praat’s default pitch range is not appropriate for the file you’re listening to.
 
 <br>
 
@@ -61,7 +61,7 @@ If you are female, it should be somewhere between 150 Hz and 250 Hz.
 >
 If the pitch values that you are getting are outside of these ranges, Praat might be making a measurement error. You can confirm your pitch measurement by zooming in to a very small section of the waveform and manually measuring the duration of one glottal cycle. See Lab 4 for further details. 
 >
-Also, if you are using a Windows system, ensure that your 'analysis method' under Pitch settings is set to __raw autocorrelation__ to get the correct display for the pitch contours.
+Also ensure that your 'analysis method' under Pitch settings is set to __raw autocorrelation__ to get the correct display for the pitch contours.
 
 <br>
 
