@@ -16,6 +16,7 @@ output: html_document
 
 Generate a single sound file, "Lab4_SourceFilter.wav", containing the vowel [ɛ] produced at three different pitches: low, mid, high – try to get the biggest range in pitch you can (if you can’t remember how to record yourself, refer to Lab 1).
 
+
 ***
 #### __INSTRUCTIONS__
 ##### __SECTION I. FUNDAMENTAL FREQUENCY (F~0~) OR PITCH__
