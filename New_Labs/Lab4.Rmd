@@ -33,6 +33,9 @@ Generate a single sound file, "Lab4_SourceFilter.wav", containing the vowel [ɛ]
 <!-- > Ensure that you change this setting back once the lab is completed! This can be done by clicking 'Standards' in the same __Show analyses__ window. -->
 <!-- <br> -->
 
+>__TIP__:
+If you notice that your pitch tracks are not corresponding to the sound that you recorded, such as the middle pitch being higher than the final pitch, this means that you've possibly gone beyond your normal speaking range! In this case, you'll need to adjust your pitch ranges beyond the standard pitch ranges.
+
 <u> Three ways to measure fundamental frequency: </u>
 
 a. By displaying the pitch track and having Praat measure the pitch automatically (see Figure 4.1; this is the technique you used in Lab 3):
@@ -151,6 +154,9 @@ c. By measuring the frequency without displaying Praat’s formants – this is 
 *	Get rid of Praat’s formant tracking: Formant > Show formants (unclick)
 * Place your cursor in the center of each formant, in the middle of the vowel
 *	A red horizontal bar should appear, with the frequency value on the left side of the window, in red.
+
+>__TIP:__
+Praat can sometimes introduce a "ghost" formant which can be rectified by raising the LPC setting maximum and/or reeducing the number of formants that the software should account for. The only way to ensure that there are no "ghost" formants is by taking into account the vowel that you're analysing, determining where the different formants are located and seeing whether Praat is matching this analysis.
 
 <br>
 <center>
