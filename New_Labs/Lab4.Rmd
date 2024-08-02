@@ -112,6 +112,10 @@ NOTE: the narrow-band and wide-band spectrograms illustrate the time/frequency t
 * Click on the centre (horizontally) of each harmonic, in the centre (vertically) of each [ɛ]
 * A red horizontal bar should appear, with the frequency value on the left side of the window, in red.
 
+
+>__TIP:__
+If you're having trouble seeing the lower harmonics, you may want to reduce the spectrogram range that Praat is displaying for you: Go to Spectrogram > Spectrogram settings and reduce the maximum of the range from the default of 5000 Hz to 3000 Hz.
+
 <br>
 
 ##### __SECTION III. FORMANTS__
@@ -156,7 +160,8 @@ c. By measuring the frequency without displaying Praat’s formants – this is 
 *	A red horizontal bar should appear, with the frequency value on the left side of the window, in red.
 
 >__TIP:__
-Praat can sometimes introduce a "ghost" formant which can be rectified by raising the LPC setting maximum and/or reeducing the number of formants that the software should account for. The only way to ensure that there are no "ghost" formants is by taking into account the vowel that you're analysing, determining where the different formants are located and seeing whether Praat is matching this analysis.
+Praat can sometimes track formants incorrectly; it may introduce red and white dots where no formant actually exists, or may miss a formant and fail to track them with dots. Listen to the vowel you're trying to track, and with your knowledge of approximately what that particular vowel's formants _should_ look like, deduce whether or not the tracking you're seeing needs to be adjusted. For instance, if Praat shows your [ɛ] with an F1 and F2 close together, this doesn't make much sense because [ɛ] should have a relatively high F2 compared to its F1. 
+To remedy a bad tracking situation, go to Formants > Formant settings and adjust the formant ceiling. A decent baseline for many voices is to look for 5.0 formants with a 5000 Hz to 5500 Hz ceiling; for smaller vocal tracts and for fronter/higher vowels, you may need to raise the formant ceiling to 6000 Hz or above to get good tracking, while for larger vocal tracts and backer/lower vowels you may need to lower the ceiling to 4500 Hz or below. This may take some trial and error.
 
 <br>
 <center>
@@ -259,7 +264,7 @@ __Q6:__ Does this harmonic have the same number across [ɛ]s? Why or why not?
 __Q7:__ What explanation is there for the pattern observed in Table 4.3 and Table 4.4: why would the harmonic number be different across [ɛ]s (Table 4.4), but the frequency of this harmonic (approximately = F1) be (approximately) the same across [ɛ]s (Table 4.3)?
 
 <br>
-<center> <h4> __REFERNCES__ </h4> </center>
+<center> <h4> __REFERENCES__ </h4> </center>
 
 __Q8:__ Provide a reference and very brief summary of one academic paper that uses the methods covered in this lab.
 
