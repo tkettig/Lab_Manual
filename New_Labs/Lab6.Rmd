@@ -32,7 +32,8 @@ Go to eClass and download the zip file "Lab6_Soundfiles", containing the followi
 
 Several acoustic correlates distinguish different places of articulation in stops. The main ones are VOT, spectral pattern during aspiration (voiceless stops), and transition into the adjacent vowels. For this lab, we will focus on formant transitions in this section; we will discuss __VOT__ and __spectral pattern__ in class. Focus on the differences associated with place of articulation (i.e. the differences between /p b/, /t d/ and /k g/.
 
-* Open the following sound files in Praat: __Lab6_a_stop_a.wav__ and __Lab6_i_stop_i.wav__
+* Open the following sound files in Praat: __Lab6_a_stop_a.wav__ and __Lab6_i_stop_i.wav__  
+
 * Focus on the voiced stops for now
 
 <br>
@@ -41,6 +42,8 @@ Several acoustic correlates distinguish different places of articulation in stop
 
 * Zoom in so that you can clearly see the formant transition from the stop into the following vowel.
 
+<br>
+
 2. Note down the movement contour of __F2__ (and F1 if you can see it) into the following vowel.
 
 <center>
@@ -48,7 +51,7 @@ Several acoustic correlates distinguish different places of articulation in stop
 </center>
 
 <br>
-
+-------
 ##### __SECTION II. FRICATIVES__
 
 Different places of articulation in fricatives are correlated with two main properties: spectral content and relative amplitude. By examining the overall spectral contour, peak frequency and the amplitude of peak frequency, we can have an idea of the properties of a fricative.
@@ -66,7 +69,8 @@ __9000 Hz__:
 * View range: up to 9,000 Hz
 * Open the following sound file in Praat: __Lab6_a_fricative_a.png__
 * Select approximately __40ms__ in the middle of each fricative
-* __Spectrum > View spectral slice__
+* __Spectrum > View spectral slice__  
+
 * For each fricative:
   + Take a screenshot of the spectral slice and paste it into your lab Word document. (If you can’t remember how to do this, refer to in in LAB 1 Figure 1.10). Be sure to give the spectral slice an appropriate title.
   + Note down the __spectral peak__ in Table 6.2: the frequency or frequencies around which most of the energy is centered, i.e. the highest amplitude frequencies (the highest peaks)
