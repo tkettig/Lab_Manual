@@ -13,7 +13,7 @@ output: html_document
 <font size= "3.5">
 
 #### __RECORDING__
-Go to eClass and download the zip file "Lab8_SoundFiles", containing the files:
+Go to eClass and download the zip file "Lab7_SoundFiles", containing the files:
 
 | _File name_                 |
 |:---------------------------:|
@@ -122,10 +122,10 @@ The three phonation types also differ in intensity. There are two ways to think 
 
 <br>
 
-* Amplitude can also be quantified by viewing the amplitude envelope (yellow contour) on the spectrogram display (see Figure 8.4). Note down in Table 7.1 the green amplitude value (in dB) on the right of the screen for different phonation types.
+* Amplitude can also be quantified by viewing the amplitude envelope (green contour) on the spectrogram display (see Figure 7.4). Note down in Table 7.1 the green amplitude value (in dB) on the right of the screen for different phonation types.
 
   + __Intensity > Show intensity__
-  + Find the __peak__ intensity )(_highest_ point on yellow amplitude contour) during the vowel __[oi]__
+  + Find the __peak__ intensity )(_highest_ point on green amplitude contour) during the vowel __[oi]__
   + Click on the amplitude contour at this point
   + Note the green amplitude value (in dB) on the right of the screen
 
@@ -143,7 +143,7 @@ Spectral tilt is the degree to which intensity drops off as frequency increases.
 
 * Spectral tilt can be eyeballed by looking at a spectral slice of the waveform, which gives the component frequencies and their amplitudes (see Figure 7.5). Note down the overall slope of the spectrum for different phonation types in Table 7.1 (steep, gradual, etc.).
 
-  + Select a portion (30 ms) of the waveform around the measurement point (given above)
+  + Select a portion (40 ms) of the waveform around the measurement point (given above)
   + __Spectrum > View spectral slice__
   + The overall slope of the spectrum (= how quickly the amplitude drops off in the higher frequencies) is an indication of spectral tilt:)
 
@@ -169,6 +169,8 @@ Spectral tilt is the degree to which intensity drops off as frequency increases.
 <br>
 
 >__TIP:__  
+Measurements for these H2-H1 calculations are much more reliable when using a longer section of the sound being analysed. It is recommended that you select 50 - 60 ms of the diphthong to get better figures for this calculation.
+>
 H1 is the _first_ big-sized peak; H2 is the _second_ one. There may often be one or two lower amplitude peaks before H1, so make sure you’re measuring the right peaks. If you click on the first big peak (H1), the value at the top of the vertical red bar gives you its frequency. Make sure this frequency corresponds to F0 (as verified by some other measurement technique – see LAB 3). Also make sure that the frequency of H2 is approximately twice the frequency of H1 (see LAB 4 for the reasoning here).
 
 <br>
