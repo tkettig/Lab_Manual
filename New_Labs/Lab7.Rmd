@@ -159,17 +159,17 @@ Spectral tilt is the degree to which intensity drops off as frequency increases.
 
 <br>
 
-* Spectral tilt can be quantified by comparing the amplitude of F0 to that of higher frequency harmonics, e.g. the second harmonic, the harmonic closest to the first formant, or the harmonic closest to the second formant. The easiest way to measure spectral tilt is by subtracting the amplitude of F0 (H1) from the amplitude of the second harmonic (H2) (see Figure 7.6). Fill in Table 7.1 with the spectral tilt value of the three phonation types.
+* Spectral tilt can be quantified by comparing the amplitude of F0 to that of higher frequency harmonics, e.g. the second harmonic, the harmonic closest to the first formant, or the harmonic closest to the second formant. The easiest way to measure spectral tilt is by subtracting the amplitude of the second harmonic (H2) from the amplitude of F0 (H1) (see Figure 7.6). Fill in Table 7.1 with the spectral tilt value of the three phonation types.
 
   + Select the first few peaks (around 10 peaks) and <u> zoom in </u> so that you can see H1 and H2 clearly.
   + In the spectral slice, click on the peak of H1 and get its amplitude - the number on the <u> left </u> of the screen corresponds to the amplitude; the number at the top of the screen corresponds to the frequency.
   + Click on the peak of H2 and get its <u> amplitude </u>.
-  + Calculate spectral tilt by this formula: __Spectral tilt = A(H2)-A(H1)__
+  + Calculate spectral tilt by this formula: __A(H1)-A(H2)__
   
 <br>
 
 >__TIP:__  
-Measurements for these H2-H1 calculations are much more reliable when using a longer section of the sound being analysed. It is recommended that you select 50 - 60 ms of the diphthong to get better figures for this calculation.
+Measurements for these H1-H2 calculations are much more reliable when using a longer section of the sound being analysed. It is recommended that you select 50 - 60 ms of the diphthong to get better figures for this calculation.
 >
 H1 is the _first_ big-sized peak; H2 is the _second_ one. There may often be one or two lower amplitude peaks before H1, so make sure you’re measuring the right peaks. If you click on the first big peak (H1), the value at the top of the vertical red bar gives you its frequency. Make sure this frequency corresponds to F0 (as verified by some other measurement technique – see LAB 3). Also make sure that the frequency of H2 is approximately twice the frequency of H1 (see LAB 4 for the reasoning here).
 
@@ -241,7 +241,7 @@ Finally, phonation types differ in the overall clarity of the spectrogram – th
 |Intensity                     | 4. Relative darkness on spectrogram / relative deviation on waveform |   |    |   |
 |                              | 5. Amplitude value (dB)|               |                    |                     |
 |Spectral tilt                 | 6. Overall slope of the spectrum       |                    |                   | |
-|                              | 7. A(H2) - A(H1)   |                   |                    |                     |
+|                              | 7. A(H1) - A(H2)   |                   |                    |                     |
 | 8. Formant frequency (F1 value) |                 |                   |                    |                     |
 | 9. Duration of [oi] (ms)        |                 |                   |                    |                     |
 | 10. Overall clarity of spectrogram |              |                   |                    |                     |
