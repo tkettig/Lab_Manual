@@ -1,7 +1,6 @@
 ---
 title: "Lab 2: Voicing in stop consonants"
 author: "Thomas Kettig, based on work by Sonya Bird et al."
-date: "26 July 2024"
 output: html_document
 ---
 *** 

@@ -1,7 +1,6 @@
 ---
 title: "Lab 6: Obstruent Place of Articulation"
 author: "Thomas Kettig, based on work by Sonya Bird et al."
-date: "02 August 2024"
 output: html_document
 ---
 ***

@@ -1,7 +1,6 @@
 ---
 title: "Lab 1: Exploring Praat"
 author: "Thomas Kettig, based on work by Sonya Bird et al."
-date: "23 July 2024"
 output: html_document
 ---
 
@@ -232,6 +231,8 @@ Your lab report should include one Figure, corresponding to the segmented and la
 <center> <font size= "4.5"> __LAB 1 REPORT__ </font> </center>
 
 <font size= "4.5"> <br>
+**Upload to eClass** a PDF with your answers to the following questions as well as the .wav and .TextGrid files that you created for this lab. Each student must complete and submit this lab on their own.
+
 **Q1:** How can you tell where one word ends and another word begins?  
 <br>
 **Q2:** Do you notice any patterns in terms of how different sounds look visually, on either the waveform or the spectrogram?
