@@ -1,11 +1,11 @@
-name: "acoustic-phonetics"
+name: "labmanual"
 output_dir: "."
 navbar:
   title: "Lab Manual for LING 4220: Acoustic Phonetics"
   type: inverse
   left:
   - text: "About"
-    href: about.html
+    href: index.html
   - text: "Lab Files"
     menu:
     - text: "Lab 1"

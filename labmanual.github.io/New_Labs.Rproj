@@ -11,3 +11,6 @@ Encoding: UTF-8
 
 RnwWeave: Sweave
 LaTeX: pdfLaTeX
+
+BuildType: Website
+WebsitePath: C:/Users/tails/OneDrive/Documents/GitHub/Lab_Manual/Lab_Manual/labmanual.github.io
